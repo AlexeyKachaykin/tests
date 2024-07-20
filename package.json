@@ -1,0 +1,16 @@
+{
+	"name": "cart-parser",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"react-scripts": "5.0.1",
+		"uuid": "^9.0.1"
+	},
+	"scripts": {
+		"test": "react-scripts test --env=jsdom"
+	},
+	"engines": {
+		"node": ">=16",
+		"npm": ">=8"
+	}
+}
